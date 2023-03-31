@@ -70,8 +70,6 @@
                         <div class="form-floating mb-3">
                             <input 
                                 type="text"
-                                min="1" 
-                                max="5" 
                                 class="form-control" 
                                 name="telefone" 
                                 placeholder="Telefone"
