@@ -69,7 +69,7 @@
                     <div class="col" >
                         <div class="form-floating mb-3">
                             <input 
-                                type="number"
+                                type="text"
                                 min="1" 
                                 max="5" 
                                 class="form-control" 
