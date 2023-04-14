@@ -13,7 +13,6 @@
 
     $errorMiddleware = $app->addErrorMiddleware(true, true, true);
 
-    // Inclui arquivo com as contantes e variáveis de ambiente
     require "../app/helpers/config.php";
 
     //require "../app/routes/user.php";
